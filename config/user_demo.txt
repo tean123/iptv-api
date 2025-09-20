@@ -1,1 +1,7 @@
+#genre#CCTV
+CCTV-1,http://你的串流地址1
+CCTV-2,http://你的串流地址2
+
+#genre#Sports
+ESPN,http://你的串流地址3
 
